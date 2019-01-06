@@ -53,3 +53,8 @@
       }
     }
   }
+button:disabled,
+button[disabled]{
+  background-color: #8ebb7b !important;
+  cursor: no-drop;
+}
